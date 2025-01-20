@@ -12,19 +12,19 @@
 
 ### News/Forums
 
-[Badcyber Currated Infosec news](https://badcyber.com/)
+[Badcyber Currated Infosec News](https://badcyber.com/)
 
 [The Reigster Security News](https://www.theregister.com/security/)
 
 [Hacker News/ General CS/Engineering Forum](https://news.ycombinator.com/)
 
-[Ars Technica Tech news](https://arstechnica.com/)
+[Ars Technica Tech News](https://arstechnica.com/)
 
 [Bleeping Computer Security News](https://www.bleepingcomputer.com/)
 
 ## Free/Pay-what-you-can training
 
-[OTW Linux CLI])(https://overthewire.org/wargames/)
+[OTW Linux CLI](https://overthewire.org/wargames/)
 
 [UTW Powershell](https://underthewire.tech/wargames)
 
