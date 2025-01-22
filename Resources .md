@@ -12,7 +12,7 @@
 
 ### News/Forums
 
-[Badcyber Currated Infosec News](https://badcyber.com/)
+[Badcyber Curated Infosec News](https://badcyber.com/)
 
 [The Reigster Security News](https://www.theregister.com/security/)
 
